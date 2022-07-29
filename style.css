@@ -1,0 +1,39 @@
+body{
+ background: url(https://wallpaperaccess.com/full/773118.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.title {
+    margin-top: 200px;
+    font-family: 'Smooch', cursive;
+    font-weight: 00;
+    font-size: 5rem;
+    cursor: pointer;
+
+}
+.title:hover {
+    text-shadow: 2px 2px 52px rgb(80, 56, 45)
+}
+.quotes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-shadow: 2px 2px 32px black;
+    color: aliceblue;
+    margin-top: 30px;
+
+}
+.by {
+    display: flex;
+    justify-content: end;
+    margin-right: 100px;
+}
+.gif{
+    display: flex;
+    justify-content: center;
+    width: 80rem;
+    border: 10px solid white;
+    box-shadow: 2px 2px 2px 32px;
+    margin: 50px;
+    box-shadow: 2px;
+}
